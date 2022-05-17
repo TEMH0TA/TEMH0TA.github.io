@@ -2,4 +2,4 @@
 
 ## Начало
 
-1) ![Glo_Academy_Practice](TEMH0TA.github.io/Project10/)
+1) [Glo_Academy_Practice](https://temh0ta.github.io/Project10/)
